@@ -1,0 +1,79 @@
+body {
+    font-family: Helvetica, bold;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    background-color: #F98866;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+}
+
+section {
+    margin: 20px;
+}
+
+.project {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 200px;
+}
+
+h1, h2 {
+    color: #ffffff;
+}
+
+h3 {
+    color: #000000;
+}
+
+#bio {
+    background-color: #C4DFE6;
+    padding: 15px;
+    color: #38737A
+}
+
+mark {
+  background-color: #38737A
+  color: #ED8E96
+}
+
+#uređenalista {
+    background-color: #FFF2D7;
+    padding: 15px;
+    color: #ED8E96
+}
+
+#neuređenalista {
+    background-color: #66A5AD;
+    padding: 15px;
+    color: #FFFFFF
+}
+
+#linkovi {
+    background-color: #ED8E96;
+    padding: 15px;
+    color: #FFF2D7
+}
+
+a:hover {
+  background-color: #FFF2D7
+}
+
+a:visited {
+  color:#FFF2D7
+}
+
+a:link {
+  color:#FFF2D7
+}
